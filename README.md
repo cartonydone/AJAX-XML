@@ -88,7 +88,7 @@ If you encounter issues or have suggestions, open an issue in the repository.
 
 ---
 
-© *by Walid BOUSSOU* 🇲🇦 😄
+© *by Priyanshu Singh* 🇲🇦 😄
 
 ---
 
@@ -124,17 +124,6 @@ If you encounter issues or have suggestions, open an issue in the repository.
 
 </div>
 
-<a href="https://github.com/walidbosso">
-  <img src="https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
-</a>
-
-<a href="https://github.com/walidbosso">
-  <img src="https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
-</a>
-
-<a href="https://github.com/walidbosso">
-  <img src="https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
-</a>
 
 ---
 
