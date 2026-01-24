@@ -1,23 +1,6 @@
 ````md
 ![AJAX-XML]
 
-<p align="center">
-  <a href="https://github.com/walidbosso/AJAX-XML">
-    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
-  </a>
-</p>
-
-<div align="center">
-
-  <p align="center">
-    <a href="https://github.com/walidbosso/AJAX-XML">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FAJAX-XML&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" />
-    </a>
-  </p>
-
-  <a href="https://github.com/walidbosso/AJAX-XML">
-    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
-  </a>
 
   <br/>
 
