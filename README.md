@@ -71,7 +71,7 @@ If you encounter issues or have suggestions, open an issue in the repository.
 
 ---
 
-© *by Priyanshu Singh* 🇲🇦 😄
+© *by Priyanshu Singh* 😄
 
 ---
 
