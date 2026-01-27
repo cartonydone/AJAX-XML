@@ -9,7 +9,7 @@
 
 A comprehensive collection of projects demonstrating XML parsing and AJAX techniques with real-world applications.
 
-[View Demo](#-project-demos) · [Report Bug](https://github.com/walidbosso/AJAX-XML/issues) · [Request Feature](https://github.com/walidbosso/AJAX-XML/issues)
+[View Demo](#-project-demos) · [Report Bug](https://github.com/PriyanshuSingh/AJAX-XML/issues) · [Request Feature](https://github.com/PriyanshuSingh/AJAX-XML/issues)
 
 </div>
 
@@ -94,7 +94,7 @@ Before running these projects, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/walidbosso/AJAX-XML.git
+   git clone https://github.com/PriyanshuSingh/AJAX-XML.git
    cd AJAX-XML
    ```
 
@@ -278,9 +278,7 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 📱 **Phone**: +1 617 937 9810
 
-[![GitHub](https://img.shields.io/badge/GitHub-walidbosso-black?style=flat&logo=github)](https://github.com/walidbosso)
-
-**Project Link**: [https://github.com/walidbosso/AJAX-XML](https://github.com/walidbosso/AJAX-XML)
+**Project Link**: [https://github.com/PriyanshuSingh/AJAX-XML](https://github.com/PriyanshuSingh/AJAX-XML)
 
 ---
 
@@ -301,20 +299,20 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 <br>
 
-![Stargazers](http://reporoster.com/stars/dark/walidbosso/AJAX-XML)
+![Stargazers](http://reporoster.com/stars/dark/PriyanshuSingh/AJAX-XML)
 
-![Forkers](http://reporoster.com/forks/dark/walidbosso/AJAX-XML)
+![Forkers](http://reporoster.com/forks/dark/PriyanshuSingh/AJAX-XML)
 
-![Contributors](https://contrib.rocks/image?repo=walidbosso/AJAX-XML)
+![Contributors](https://contrib.rocks/image?repo=PriyanshuSingh/AJAX-XML)
 
 </details>
 
 ---
 
-![Last Commit](https://img.shields.io/github/last-commit/walidbosso/AJAX-XML?style=flat-square)
-![License](https://img.shields.io/github/license/walidbosso/AJAX-XML?style=flat-square)
-![Issues](https://img.shields.io/github/issues/walidbosso/AJAX-XML?style=flat-square)
-![Stars](https://img.shields.io/github/stars/walidbosso/AJAX-XML?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/PriyanshuSingh/AJAX-XML?style=flat-square)
+![License](https://img.shields.io/github/license/PriyanshuSingh/AJAX-XML?style=flat-square)
+![Issues](https://img.shields.io/github/issues/PriyanshuSingh/AJAX-XML?style=flat-square)
+![Stars](https://img.shields.io/github/stars/PriyanshuSingh/AJAX-XML?style=flat-square)
 
 **Made with ❤️ by Priyanshu Singh**
 
